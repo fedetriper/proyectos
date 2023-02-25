@@ -1,0 +1,31 @@
+.containerx {
+    width: 97%;
+    
+}
+.margen20 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.margen10 {
+    
+    margin-left: 5px;
+    margin-right: 1rem;
+}
+
+
+.thumbnail {
+    width: 75% ;
+    padding: 10px;
+}
+.inline {
+    display: inline;
+}
+.color1 { color: #e6eba9 };
+.color2 { color:#abbb9f };
+.color3 { color:#6f8b94 };
+.color4 { color:#706482 };
+.color5 { color:#703d6f };
+
+dd {
+    color: tomato;
+}
