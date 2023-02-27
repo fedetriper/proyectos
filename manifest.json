@@ -3,14 +3,14 @@
   "name": "pagina CV de JV Espinosa",
   "icons": [
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "images/logo.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-512x512.png",
+      "src": "images/favicon.ico",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/x-icon"
     }
   ],
   "theme_color": "#ffffff",
